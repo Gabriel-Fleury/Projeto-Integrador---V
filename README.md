@@ -1,8 +1,4 @@
-# Projeto-Integrador---V
-Codigo projeto da agenda desenvolvida pelos alunos da PUC
-
-
-<h2 align="left">Hello World😄! My name is Gabriel Fleury Martins and I am studying Systems Analysis and Development at the Pontifical Catholic University. Currently, I am focused on web development and hope to one day become a great developer.🧑🏽‍💻</h2>
+<h2 align="left">Hello World😄! Meu nome é Gabriel Fleury Martins e estou cursando Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica. Atualmente, meu foco é desenvolvimento web e espero que cada dia eu melhore minhas habilidades!🧑🏽‍💻</h2>
 
 ###
 
@@ -35,6 +31,8 @@ Codigo projeto da agenda desenvolvida pelos alunos da PUC
 
 ###
 
+# ![snake gif](https://github.com/Gabriel-Fleury/Gabriel-Fleury/blob/output/github-contribution-grid-snake.gif)
+
 <div align="left">
   <a href="https://www.instagram.com/stories/gabriel_fleury05/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -47,13 +45,7 @@ Codigo projeto da agenda desenvolvida pelos alunos da PUC
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gabriel-Fleury/Gabriel-Fleury/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/0owamd6kdebmlp77a6wgqzxea">
